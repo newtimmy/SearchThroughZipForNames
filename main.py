@@ -1,7 +1,7 @@
 import zipfile
 import fctlist as fl
 
-root_folder = "/Users/timm/PycharmProjects/SearchThroughZipForNames/"
+root_folder = "/Users/PycharmProjects/SearchThroughZipForNames/"
 
 files_and_folders = fl.search_for_zip_file(root_folder)
 
